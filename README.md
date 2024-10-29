@@ -37,8 +37,7 @@ CARBONOZ Solar Autopilot is the dashboard of your choice for every day use of yo
 7. Complete the setup:
    - Click "Add" to save the repository
    - Wait for the system to check for updates
-   - Restart Home Assistant if prompted
-
+     
 ### 2. Add-on Installation
 1. Go to the Home Assistant Add-on Store
 2. Locate "CARBONOZ SolarAutopilot" in the add-on list
