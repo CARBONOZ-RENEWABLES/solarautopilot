@@ -1,0 +1,3 @@
+[submodule "carbonoz_solarautopilot"]
+	path = carbonoz_solarautopilot
+	url = https://github.com/eelitedesire/carbonoz_solarautopilotV1.git
